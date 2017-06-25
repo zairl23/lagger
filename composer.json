@@ -1,7 +1,10 @@
 {
     "name": "ney/lagger",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+      "aaronjan/kobe": "^0.9.7",
+      "zircote/swagger-php": "^2.0"
+    },
     "autoload": {
       "psr-4": {
         "Ney\\Lagger\\": "/"
