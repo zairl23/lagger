@@ -1,0 +1,10 @@
+{
+    "name": "ney/lagger",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Ney\\Lagger\\": "/"
+      }
+    }
+}
